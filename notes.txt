@@ -1,0 +1,1 @@
+Week 1: set up WSL2, Conda, Git. Practiced grep, awk, pipes.
