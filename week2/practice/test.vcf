@@ -1,0 +1,5 @@
+##fileformat=VCFv4.2
+#CHROM	POS	ID	REF	ALT	QUAL	FILTER	INFO	FORMAT	sample1	sample2
+chr1	150	snp1	A	G	50	PASS	.	GT	0/0	0/1
+chr1	300	snp2	C	T	60	PASS	.	GT	0/1	1/1
+chr2	1200	snp3	G	A	20	LowQual	.	GT	0/0	0/0
