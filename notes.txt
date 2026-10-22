@@ -1,2 +1,5 @@
 Week 1: set up WSL2, Conda, Git. Practiced grep, awk, pipes.
 grep finds matching lines, awk works on columns, pipes chain commands.
+Week 2: Inspected the five main sequence file formats, ran FastQC on a maize dataset, solved Rosalind DNA and RNA.
+Broke: pasted commands into nano instead of data; folder ended up renamed by a placeholder.
+Learned: QC and metadata can disagree, and trimming adapters matters even when quality scores look good.
